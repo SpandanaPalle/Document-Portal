@@ -6,7 +6,7 @@
 # # from src.document_analyzer.data_analysis import DocumentAnalyzer  # Your DocumentAnalyzer class
 
 # # # Path to the PDF you want to test
-# # PDF_PATH = r"C:\\Users\\sunny\\document_portal\\data\\document_analysis\\sample.pdf"
+# # PDF_PATH = r"C:\\Users\\Spandana \\document_portal\\data\\document_analysis\\sample.pdf"
 
 # # # Dummy file wrapper to simulate uploaded file (Streamlit style)
 # # class DummyFile:
